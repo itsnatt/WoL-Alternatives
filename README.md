@@ -13,7 +13,7 @@ This project enables you to control a servo motor via Telegram, monitor the temp
 ## Screenshots
 
 ![App Screenshot]![image](https://github.com/user-attachments/assets/8868b87c-c727-4ed8-a201-fc4b90d261a9)
-) ![image](https://github.com/user-attachments/assets/13f5cf77-c998-413a-943a-05d6d0ec6dd0)
+![image](https://github.com/user-attachments/assets/13f5cf77-c998-413a-943a-05d6d0ec6dd0)
 
 
 
@@ -24,7 +24,7 @@ This project enables you to control a servo motor via Telegram, monitor the temp
 - **/armed:** Arm the servo motor for 10 seconds.
 - **/trigger:** Trigger the servo motor if armed and the host is not responding to ping(off).
 - **/temp:** Get the current temperature inside the PC case
-- **/force  <code> :** Force trigger the servo motor with the correct security code. The code format is 121 followed by the current day and month (e.g., 121412 for 4th December).
+- **/force code :** Force trigger the servo motor with the correct security code. The code format is 121 followed by the current day and month (e.g., 121412 for 4th December).
 
 
 
