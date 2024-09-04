@@ -12,8 +12,7 @@ This project enables you to control a servo motor via Telegram, monitor the temp
 - Singgle User Auth
 ## Screenshots
 
-![App Screenshot]![image](https://github.com/user-attachments/assets/8868b87c-c727-4ed8-a201-fc4b90d261a9)
-![image](https://github.com/user-attachments/assets/13f5cf77-c998-413a-943a-05d6d0ec6dd0)
+![App Screenshot]![image](https://github.com/user-attachments/assets/8868b87c-c727-4ed8-a201-fc4b90d261a9) ![image](https://github.com/user-attachments/assets/13f5cf77-c998-413a-943a-05d6d0ec6dd0)
 
 
 
